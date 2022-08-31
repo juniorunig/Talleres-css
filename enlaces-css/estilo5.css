@@ -1,0 +1,8 @@
+a { margin: 1em 0; float: left; clear: left; text-decoration: none;}
+.simple {text-decoration: underline;}
+.color { border-bottom: medium solid #CC0000;}
+.ancho {border-bottom: thick solid;}
+.separado {border-bottom: 1px solid; padding-bottom: .6em;}
+.discontinuo {border-bottom: thin dashed;}
+
+
